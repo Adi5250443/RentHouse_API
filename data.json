@@ -1,0 +1,92 @@
+[
+    {
+        "id":1,
+        "image":"https://images.pexels.com/photos/186077/pexels-photo-186077.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost":"high",
+        "location":"New Delhi",
+        "address":"Vasant kunj",
+        "type":"house"
+
+    },
+    {
+        "id":2,
+        "image":"https://images.pexels.com/photos/1732414/pexels-photo-1732414.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost":"high",
+        "location":"Kolkata",
+        "address":"Howra Bridge",
+        "type":"house"
+
+    },
+    {
+        "id":3,
+        "image":"https://images.pexels.com/photos/3656188/pexels-photo-3656188.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost":"low",
+        "location":"Noida",
+        "address":"Sector 137",
+        "type":"flat"
+
+    },
+    {
+        "id":4,
+        "image":"https://images.pexels.com/photos/3935338/pexels-photo-3935338.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost":"low",
+        "location":"Greater Noida",
+        "address":"Alpha 2",
+        "type":"flat"
+
+    },
+    {
+        "id":5,
+        "image":"https://images.pexels.com/photos/187815/pexels-photo-187815.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost":"high",
+        "location":"Gurugram",
+        "address":"Sector 140",
+        "type":"house"
+
+    },
+    {
+        "id":6,
+        "image":"https://images.pexels.com/photos/2194399/pexels-photo-2194399.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost":"high",
+        "location":"Udaipur",
+        "address":"Rajniwas palace",
+        "type":"house"
+
+    },
+    {
+        "id":7,
+        "image":"https://images.pexels.com/photos/439391/pexels-photo-439391.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost":"low",
+        "location":"New Delhi",
+        "address":"Pitampura",
+        "type":"flat"
+
+    },
+    {
+        "id":8,
+        "image":"https://images.pexels.com/photos/259950/pexels-photo-259950.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost":"low",
+        "location":"Mumbai",
+        "address":"Worli",
+        "type":"flat"
+
+    },
+    {
+        "id":9,
+        "image":"https://images.pexels.com/photos/1438832/pexels-photo-1438832.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost":"high",
+        "location":"Lucknow",
+        "address":"Ghantaghar",
+        "type":"house"
+
+    },
+    {
+        "id":10,
+        "image":"https://images.pexels.com/photos/53610/large-home-residential-house-architecture-53610.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "cost":"high",
+        "location":"Jaipur",
+        "address":"Jal Mahal",
+        "type":"house"
+
+    }
+]
