@@ -11,7 +11,7 @@ app.get("/",(req,res)=>{
     res.send("Hello world");
 })
 
-app.get("/services",(req,res)=>{
+app.get("/data",(req,res)=>{
     res.send(apiDATA);
 })
 
