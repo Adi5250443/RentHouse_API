@@ -7,11 +7,8 @@ app.use(cors());
 const port=process.env.PORT || 3000;
 const apiDATA=require("./data.json");
 
-app.get("/",(req,res)=>{
-    res.send("Hello world");
-})
 
-app.get("/data",(req,res)=>{
+app.get("/",(req,res)=>{
     res.send(apiDATA);
 })
 
